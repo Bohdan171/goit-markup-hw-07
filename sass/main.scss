@@ -2,6 +2,7 @@
 @import '../utils/hidden';
 @import '../base/reset';
 @import '../base/common';
+@import '../sass/base/button';
 @import '../components/header';
 @import '../components/hero';
 @import '../components/container';
@@ -12,4 +13,5 @@
 @import '../components/team';
 @import '../components/client';
 @import '../components/footer';
+@import '../components/services-btn-card';
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@700&family=Roboto:wght@400;500;700;900&display=swap');
